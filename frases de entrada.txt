@@ -1,0 +1,7 @@
+greetings = [
+    "Eu sei, eu sei... Cheguei na hora certa. Não se acostumem ",
+    "Eis que faço minha entrada pontual. Não se desesperem, ainda sou o mesmo. ",
+    "Estou aqui para duas coisas: beber café e evitar reuniões. E parece que o café acabou...",
+    "Quem precisa de café quando se tem o dom de chegar atrasado e ainda fazer uma entrada triunfal?",
+    "Espero que todos estejam prontos para outra performance épica de 'Eu fingindo saber o que estou fazendo'"
+]
